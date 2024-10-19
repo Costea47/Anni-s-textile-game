@@ -45,3 +45,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Special thanks to the **Rosebud AI** team for their support and resources.
 - Inspired by the fascinating history and future of textile manufacturing.
+
+## Credits
+
+This game was created by Ezinne, an intern on A4R, as part of an internship project.
+https://github.com/ejo003

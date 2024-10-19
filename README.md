@@ -22,11 +22,11 @@ This game is part of an internship project aimed at creating an immersive, educa
 
 ## Live Link
 
-[https://your-website-link.com](https://costea47.github.io/Anni-s-textile-game/)
+[https://costea47.github.io/Anni-s-textile-game/](https://costea47.github.io/Anni-s-textile-game/)
 
 ## Live on Rosebud AI
 
-[https://play.rosebud.ai/games/your-game-id](https://play.rosebud.ai/projects/51e627b9-778c-4da9-b8a5-105f735dd659)
+[https://play.rosebud.ai/projects/51e627b9-778c-4da9-b8a5-105f735dd659](https://play.rosebud.ai/projects/51e627b9-778c-4da9-b8a5-105f735dd659)
 
 ## Usage
 

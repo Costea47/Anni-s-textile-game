@@ -22,7 +22,7 @@ This game is part of an internship project aimed at creating an immersive, educa
 
 ## Live Link
 
-[https://your-website-link.com](https://your-website-link.com)
+[https://your-website-link.com](https://costea47.github.io/Anni-s-textile-game/)
 
 ## Live on Rosebud AI
 
